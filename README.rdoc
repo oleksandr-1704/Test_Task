@@ -9,4 +9,7 @@ Things you may want to cover:
 
 * rake db:create api
 
+* You may need to change database connection here https://github.com/oleksandr-1704/Test_Task/blob/master/config/database.yml
+
 * rspec spec/controllers/api_controller_spec.rb
+
